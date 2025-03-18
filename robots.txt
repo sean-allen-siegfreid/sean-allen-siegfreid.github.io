@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: sean-allen-siegfreid.github.io/sitemap.xml
